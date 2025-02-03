@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Crear el logo
     const logo = document.createElement("img");
-    logo.src = "ruta/a/tu/logo.png"; // Cambia esta ruta por la de tu logo
+    logo.src = "assets/images/logo2-f1.jpg"; // Cambia esta ruta por la de tu logo
     logo.alt = "Logo";
     logo.style.width = "120px";
     logo.style.height = "auto";
